@@ -18,7 +18,7 @@ Para ejecutar esta página web en su entorno local, debe tener los siguientes re
 3. Importe el archivo **DB/database.sql** en su base de datos MySQL para crear la estructura de la base de datos.
 4. Importe el archivo **DB/storedProcedures.sql** en su base de datos MySQL para crear los procedimientos almacenados.
 5. Ejecute el archivo **DB/exec.sql** en su base de datos MySQL para ejecutar los procedimientos almacenados.
-6. Modifique el archivo app-assets/db.php con los detalles de su conexión a la base de datos.
+6. Modifique el archivo **app/credentials.php** con los detalles de su conexión a la base de datos.
 7. Acceda a la página web a través de su navegador web.
 
 ## Uso
